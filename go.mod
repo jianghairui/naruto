@@ -1,3 +1,3 @@
-module github.com/jianghairui/naruto
+module github.com/jianghairui123/naruto
 
 go 1.18
